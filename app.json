@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "tarefas-expo",
-    "slug": "expo-01",
+    "slug": "tarefas-expo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -47,7 +47,7 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "55abf4ff-fb7e-4151-bc4b-b25bbbaa6d4d"
+        "projectId": "728b067b-b56f-485e-b891-405e42d259ac"
       }
     },
     "owner": "andrelgsilva",
@@ -55,7 +55,7 @@
       "policy": "appVersion"
     },
     "updates": {
-      "url": "https://u.expo.dev/55abf4ff-fb7e-4151-bc4b-b25bbbaa6d4d"
+      "url": "https://u.expo.dev/728b067b-b56f-485e-b891-405e42d259ac"
     }
   },
   "owner": "andrelgsilva",
